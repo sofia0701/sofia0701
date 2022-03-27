@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20world!&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia0701&layout=compact)](https://github.com/sofia0701/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia0701&show_icons=true&theme=prussian)
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timegradient)
 
