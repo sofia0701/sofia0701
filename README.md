@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia0701&layout=compact)](https://github.com/sofia0701/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia0701&show_icons=true&theme=prussian)
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
