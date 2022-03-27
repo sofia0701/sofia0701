@@ -12,9 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20world!&fontSize=90)
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20world!&fontSize=90&animation=fadeIn&desc=Eve&descAlign=83&descAlignY=68&descSize=40)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia0701&layout=compact)](https://github.com/sofia0701/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia0701&show_icons=true&theme=prussian)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&fontSize=90)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia0701&show_icons=true&theme=vue)](https://github.com/sofia0701/github-readme-stats)
 
 
+## Using Language
+<img align="center" src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=300&reversal=true)
+
+
+</div>
