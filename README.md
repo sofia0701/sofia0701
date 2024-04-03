@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20world!&fontSize=90&animation=fadeIn&desc=Eve&descAlign=83&descAlignY=68&descSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20world!&fontSize=90&animation=fadeIn&descAlign=83&descAlignY=68&descSize=40)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia0701&layout=compact)](https://github.com/sofia0701/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia0701&show_icons=true&theme=vue)](https://github.com/sofia0701/github-readme-stats)
